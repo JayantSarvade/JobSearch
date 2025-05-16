@@ -27,5 +27,3 @@ def post_job(request):
     return render(request, 'post_job.html')
 
 
-def register(request):
-    return render(request, 'register.html')
